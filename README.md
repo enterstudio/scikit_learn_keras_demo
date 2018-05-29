@@ -15,7 +15,7 @@ cd scikit_learn_keras_demo
 ## Step 3: Install some pre-requisite libraries
 `pip3 install -r requirements.txt`
 
-Note: this setup installs the "CPU version" of TensorFlow; if you're running some largely model you'll want to use the "GPU version" for much better efficiency. It's a slightly different setup that is outside the scope of this demo, but just something to keep in mind.
+Note: this setup installs the "CPU version" of TensorFlow; if you're running some large model you'll want to use the "GPU version" for much better efficiency. It's a slightly different setup that is outside the scope of this demo, but just something to keep in mind.
 
-## Step 4: Run the ipython notebook
+## Step 4: Run the Jupyter notebook
 `jupyter notebook`
