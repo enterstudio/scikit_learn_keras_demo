@@ -1,6 +1,6 @@
-# scikit-learn and Keras demo (Fall 2017, Machine Learning @ University of Utah)
+# scikit-learn and Keras demos
 
-This repo contains two ipython notebooks which demonstrate how to use some features of scikit-learn &amp; Keras.
+This repo contains two Jupyter notebooks which demonstrate how to use some features of scikit-learn &amp; Keras.
 
 ## Step 1: Make sure you have python3 installed
 
@@ -8,8 +8,8 @@ Instructions here if you need to grab it: https://www.python.org/downloads/
 
 ## Step 2: Grab this repo
 ```
-git clone https://github.com/anniecherk/scikit_learn_and_keras_demo_fall_2017
-cd scikit_learn_and_keras_demo_fall_2017
+git clone https://github.com/svivek/scikit_learn_keras_demo
+cd scikit_learn_keras_demo
 ```
 
 ## Step 3: Install some pre-requisite libraries
