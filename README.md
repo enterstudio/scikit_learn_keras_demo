@@ -17,5 +17,12 @@ cd scikit_learn_keras_demo
 
 Note: this setup installs the "CPU version" of TensorFlow; if you're running some large model you'll want to use the "GPU version" for much better efficiency. It's a slightly different setup that is outside the scope of this demo, but just something to keep in mind.
 
+We use graphviz for displaying decision trees in the scikit learn
+demo. You may need to install graphviz; follow the instructions
+[here](https://graphviz.gitlab.io/download/). On a Mac, `brew
+install graphviz` does the trick.
+
+
+
 ## Step 4: Run the Jupyter notebook
 `jupyter notebook`
